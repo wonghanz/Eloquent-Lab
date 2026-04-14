@@ -1,0 +1,8 @@
+{
+  "name": "ELoLab",
+  "description": "An immersive English education app with AR debate and grammar hub.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
